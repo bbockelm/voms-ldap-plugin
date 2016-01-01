@@ -1,0 +1,8 @@
+libLdapVoms.so*
+release_dir
+test_main
+install_manifest.txt
+cmake_install.cmake
+Makefile
+CMakeFiles
+CMakeCache.txt
